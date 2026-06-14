@@ -1,0 +1,5 @@
+Link Dataset :
+https://www.google.com/url?sa=E&source=gmail&q=https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+
+Link GitHub :
+https://github.com/La7hydar/CNN-vs-Transfer-Learning-untuk-Klasifikasi-Citra.git
